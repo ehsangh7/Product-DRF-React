@@ -1,0 +1,22 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  background: #fff;
+  height: max-content;
+  .checkout__left {
+    .checkout__ad {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    .checkout__title {
+      .checkout__titleH2{
+        margin-right: 10px;
+        padding: 10px;
+        border-bottom: 1px solid rgb(18, 185, 241);
+      }
+      
+    }
+  }
+  .checkout__right {
+  }
+}
